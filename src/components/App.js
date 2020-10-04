@@ -22,7 +22,6 @@ function App() {
           updateProfile: (args) => user.updateProfile(args),
         });
       } else {
-        console.log(userObj);
         setUserObj(null);
         setISLoggedIn(false);
       }
