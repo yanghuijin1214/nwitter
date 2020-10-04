@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nwitter/precache-manifest.f21079a4bc71925037319e326dd6861e.js"
+  "/nwitter/precache-manifest.34f5b0f50edbd8ad9a2423059ed118de.js"
 );
 
 self.addEventListener('message', (event) => {
