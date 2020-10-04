@@ -1,5 +1,4 @@
 {
-  "hompage": "https://yanghuijin1214.github.io/nwitter",
   "name": "nwitter",
   "version": "0.1.0",
   "private": true,
@@ -42,5 +41,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://yanghuijin1214.github.io/nwitter"
 }
